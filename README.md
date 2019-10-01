@@ -8,4 +8,4 @@ But this is only partially happening due to the huge amount of manual work still
 
 Currently this interpretation of genetic mutations is being done manually. This is a very time-consuming task where a clinical pathologist has to manually review and classify every single genetic mutation based on evidence from text-based clinical literature.
 
-We need to develop a Machine Learning algorithm that, using this knowledge base as a baseline, automatically classifies genetic variations.
+We need to develop a Machine Learning algorithm that, using this knowledge base as a baseline, automatically classifies.
